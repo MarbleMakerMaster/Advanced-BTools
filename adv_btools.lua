@@ -94,7 +94,6 @@ ScreenGui0.Parent = mas
 ScreenGui0.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Frame1.Name = "Main"
 Frame1.Parent = ScreenGui0
-Frame1.Position = UDim2.new(0, 0, 1, 0)
 Frame1.Size = UDim2.new(1, 0, 0, 100)
 Frame1.AnchorPoint = Vector2.new(0, 1)
 Frame1.BackgroundColor = BrickColor.new("Black")
