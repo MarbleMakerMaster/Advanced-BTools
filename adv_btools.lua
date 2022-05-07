@@ -1237,7 +1237,7 @@ table.insert(cors,sandbox(LocalScript71,function()
 script.Parent.Main.Position = UDim2.new(0,0,1,100)
 
 local TweenService = game:GetService("TweenService")
-local StarterGui = game:GetService("StarterGui")
+local StarterGui = game.CoreGui
 
 local goal = {}
 goal.Position = UDim2.new(0,0,1,0)
